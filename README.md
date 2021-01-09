@@ -1,2 +1,3 @@
 # armiatest
 check
+tr
